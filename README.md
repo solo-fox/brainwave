@@ -1,4 +1,4 @@
-![Logo](screenshots/14.jpg)
+![Logo](screenshots/14a.jpg)
 
 # Brainwave
 
@@ -41,7 +41,7 @@ and many more, including code architecture and reusability
 ![Screenshot 11](screenshots/11.jpg)
 ![Screenshot 12](screenshots/12.jpg)
 ![Screenshot 13](screenshots/13.jpg)
-![Screenshot 14](screenshots/14.jpg)
+![Screenshot 14](screenshots/14a.jpg)
 ![Screenshot 15](screenshots/15.jpg)
 ![Screenshot 16](screenshots/16.jpg)
 
